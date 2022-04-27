@@ -1,3 +1,3 @@
-## Car rental prototype
+## Car rental wireframe
 
-![Car rental prototype](resources/car-rental-prototype.png)
+![Car rental wireframe](resources/car-rental-wireframe.png)
